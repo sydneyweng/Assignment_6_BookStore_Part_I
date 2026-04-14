@@ -1,5 +1,5 @@
 # Bookstore Database + Python CLI
-##Sydney Weng
+## Sydney Weng
 
 This example creates a small bookstore database in SQLite and then uses Python to interact with it through a command-line interface.
 This bookstore database includes four categories of books, which are fiction, philosophy, romantic and science.
